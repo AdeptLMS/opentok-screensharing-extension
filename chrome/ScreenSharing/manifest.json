@@ -12,7 +12,8 @@
   },
   "externally_connectable": {
     "matches": [
-      "https://lingu.lvh.me:3000/*"
+      "https://lingu.lvh.me:3000/*",
+      "https://*.vixxdev.no/*"
     ]
   },
   "icons": {
