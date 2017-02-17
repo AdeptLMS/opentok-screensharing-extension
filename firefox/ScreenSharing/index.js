@@ -1,7 +1,7 @@
 var pageMod = require('sdk/page-mod');
 var prefsService = require('sdk/preferences/service');
 var allowDomainsPrefKey = 'media.getusermedia.screensharing.allowed_domains';
-var gDomains = ['*.example.com'];
+var gDomains = ['*.lvh.me', '*.vixxdev.no'];
 
 exports.main = function (options) {
 
