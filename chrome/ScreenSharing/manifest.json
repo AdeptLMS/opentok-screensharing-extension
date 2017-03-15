@@ -13,7 +13,9 @@
   "externally_connectable": {
     "matches": [
       "https://lingu.lvh.me:3000/*",
-      "https://*.vixxdev.no/*"
+      "https://*.vixxdev.no/*",
+      "https://*.adeptlms.com/*",
+      "https://kurs.lingu.no/*"
     ]
   },
   "icons": {
